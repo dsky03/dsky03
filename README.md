@@ -6,17 +6,6 @@
 </p>
 
 <p align="center">
-  <!-- 방문자 배지 (선택) -->
-  <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME&count_bg=%23222222&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=views&edge_flat=false"/> -->
-</p>
-
-<hr/>
-
-<!-- ===================== QUICK LINKS (선택) ===================== -->
-<p align="center">
-  <a href="#-featured-projects">Projects</a> ·
-  <a href="#-tech-stack">Tech</a> ·
-  <a href="#-contact">Contact</a>
 </p>
 
 ---
@@ -69,51 +58,15 @@
 
 ---
 
-## 📌 Featured Projects
-
-> 아래는 “포트폴리오형 카드” 뼈대입니다.  
-> 링크는 나중에 레포/데모로 연결하세요.
-
-### 🔹 Project A — (프로젝트명)
-- 한 줄 소개: (무엇을 만드는 서비스인지)
-- 핵심 역할: Frontend (단독/팀/기여도)
-- 주요 기술: React, TypeScript, ...
-- Highlights
-  - (예: 검색/필터/무한스크롤 구현)
-  - (예: 상태관리/캐싱 전략 적용)
-  - (예: 성능 개선: LCP/번들 최적화)
-
----
-
-### 🔹 Project B — (프로젝트명)
-- 한 줄 소개:
-- 핵심 역할:
-- 주요 기술:
-- Highlights
-  - 
-  - 
-  - 
-
----
-
-## ✅ Strengths
-
-- 컴포넌트 설계: 재사용성과 책임 분리 중심
-- 상태 관리: 예측 가능한 데이터 흐름과 사이드이펙트 관리
-- UX: 사용자 행동 기반 개선(로딩/빈상태/에러/피드백)
-- 협업: 문서화와 일관된 코드 스타일을 통한 생산성 향상
-
----
-
 ## 📬 Contact
 
 <p>
   <a href="mailto:dsky03@naver.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <!-- <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a> -->
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
   <!-- <a href="YOUR_BLOG_URL">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a> -->
