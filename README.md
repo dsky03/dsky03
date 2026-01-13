@@ -63,6 +63,10 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
 
+<br />
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dsky03&layout=compact)
+
 ---
 
 ## 📌 Featured Projects
