@@ -60,7 +60,7 @@
   <a href="mailto:dsky03@naver.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://www.notion.so/Dsky-0bce1e462a4242228557975c7852f2a3">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
